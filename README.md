@@ -1,3 +1,4 @@
+this project not finished yet, updating.
 
 In the project directory, you can run:
 
