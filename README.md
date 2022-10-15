@@ -1,4 +1,5 @@
-this project not finished yet, updating.
+# invoicer-React
+# This project not finished yet, updating.
 
 In the project directory, you can run:
 
@@ -59,4 +60,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# invoicer-React
